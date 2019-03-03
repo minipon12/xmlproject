@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<table xmlns="https://www.w3schools.com/furniture">
+    <table category="profile">
+        <author><first-name>wachatraporn</first-name>
+                <last-name>chaiyakuiwattana</last-name>
+        </author>
+        <author>Chaiyaphum Rajabhat University</author>
+        <url>http://www.cpru.ac.th/cpruthai2018/</url>
+        <title>Computer Science</title>
+        <year>2560</year>
+    </table>
+    <table category="Address">
+        <author><country>Bangkok,Chaiyaphum 671-673</county>
+            <post>36240</post>
+        </author>
+    </table>
+    <table category="educated">
+        <author>Chaiyaphum Technical College</author>
+        <course>Business Computer</course>
+        <year>2556</year>
+    </table>
+</table>
+</html>
